@@ -1,0 +1,8 @@
+0.3 Cleaned out the code, so most of the k-yamo-specific-stuff is not in there anymore.
+    Sorted out the sourcecode into folders and added all pictures this time.
+    Improved the order in the constructors, so there are no more warnings on compile.
+    Added a Delegate to get artist and album on a seperate line.
+    Completed the api-documentation.
+
+0.2  Only made a better example-app, that wires a bit more.
+     Also the icon is set this time, so albums without cover in tags get shown right.

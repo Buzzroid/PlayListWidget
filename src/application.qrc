@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icons" >
+        <file>playlistwidget/icons/audio.png</file>
+        <file>playlistwidget/icons/edit_delete.png</file>
+        <file>playlistwidget/icons/edit_shred.png</file>
+        <file>playlistwidget/icons/player_play.png</file>
+        <file>playlistwidget/icons/Folders-OS-Windows-8-Metro-icon.png</file>
+    </qresource>
+</RCC>

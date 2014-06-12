@@ -1,0 +1,19 @@
+Thanx for trying out my cute little playlistwidget.
+It is a part of kyamo, my music-organiser. I found that this widget is good enough, to stand on its own.
+Maybe other projects want to use it.
+
+You can use and modify it at your own likes.
+In the html-folder is the api-documentation of the widget, generated with doxygen.
+In the main.cpp is only a tiny example-code, to show how to get things going.
+Use qmake and than make to compile the example.
+
+Really important is that you include the taglib-part into your pro-file, as it is included it mine,
+otherwise taglib-support will not be found.
+
+If you only want to use the taglib-part, you can do this also. It does already a good job in k-yamo.
+
+I would be pleased to hear from any implementations.
+
+Regards,
+
+Roland Weigert
