@@ -1,3 +1,5 @@
+0.4 hello from aupark
+
 0.3 Cleaned out the code, so most of the k-yamo-specific-stuff is not in there anymore.
     Sorted out the sourcecode into folders and added all pictures this time.
     Improved the order in the constructors, so there are no more warnings on compile.
